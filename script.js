@@ -29,7 +29,7 @@ if (toggleButton) {
 // then delete the slash-star line below and the star-slash line at the end to switch this on.
 
 const items = ["Build suitable outfits", "Make new designs", "Bring to life non-existent ideas", "To turn fashion into a personality"];
-const list = document.querySelector("#item-list");
+const list = document.querySelector("#items-list");
 
 // Only run this on a page that has the list.
 if (list) {
