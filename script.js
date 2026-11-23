@@ -14,11 +14,11 @@ if (toggleButton) {
   toggleButton.addEventListener("click", function () {
     if (isOpen) {
       details.hidden = true;
-      toggleButton.textContent = "Show what is in season at the moment";
+      toggleButton.textContent = "Show what is in season at the moment!";
       isOpen = false;
     } else {
       details.hidden = false;
-      toggleButton.textContent = "Hide what is in season at the moment";
+      toggleButton.textContent = "Hide what is in season at the moment!";
       isOpen = true;
     }
     console.log("Box open:", isOpen);
