@@ -21,4 +21,4 @@ Every image, fact and dataset is listed on the About page and in my source recor
 What I asked the AI (Claude or Cursor), what I checked and what I changed is in my AI accountability log.
 
 ## What I would do next
-One or two ideas.
+I plan to add a feedback page for customers to review their expirences. Also I would like to customize the website's outlook and design to be aesthetically pleasing as it deserves to be.
