@@ -7,7 +7,7 @@ A website for Boutique-254, a made-up fashion business. One or two sentences.
 Anyone looking to explore their fashion interests, improve their closets and engage with style.
 
 ## How to open it
-Live site: [your GitHub Pages address]
+Live site: https://myra-007.github.io/boutique-254/index.html
 
 ## What it does
 - Three connected pages: Home, About the glamour, Aesthetics and genres
