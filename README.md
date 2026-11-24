@@ -12,7 +12,7 @@ Live site: https://myra-007.github.io/boutique-254/index.html
 ## What it does
 - Three connected pages: Home, About the glamour, Aesthetics and genres
 - A button that shows and hides what is in season
-- A list of Aesthetics and genres built from data (added on Day 6)
+- A list of What you can find in our website that is available
 
 ## Sources
 Every image, fact and dataset is listed on the About page and in my source record.
